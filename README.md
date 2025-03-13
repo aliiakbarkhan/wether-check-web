@@ -12,6 +12,16 @@ A modern, lightweight weather application with a **neon-themed UI**, providing r
 - **Frontend:** HTML, CSS, JavaScript  
 - **API:** [WeatherAPI](https://www.weatherapi.com/) for live weather data  
 
+
+## 📸 Screenshots
+
+| Feature | Screenshot |
+|---------|------------|
+| Main Screen | ![Screenshot 2025-03-13 151127](https://github.com/user-attachments/assets/b64d9530-9a7d-4f04-a2fc-d0cb7952d6b0) |
+| Result Dashboard | ![Screenshot 2025-03-13 151145](https://github.com/user-attachments/assets/d8f39e54-c8bf-4d45-abcf-3cae6c599562) |
+
+
+
 ## **Installation**  
 ```sh
 git clone https://github.com/aliiakbarkhan/wether-check-web.git
