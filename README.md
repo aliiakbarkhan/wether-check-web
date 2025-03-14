@@ -1,5 +1,7 @@
 # Wether Check Web 
 
+<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/djcf0h0-5714a1f4-2e8e-40d6-aa4f-caa8ea8d75cc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGpjZjBoMC01NzE0YTFmNC0yZThlLTQwZDYtYWE0Zi1jYWE4ZWE4ZDc1Y2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2A1nUGCYfvoD5fgG6FMI7QnBc-goZJLRgkrEav-0NGM" />
+
 A modern, lightweight weather application with a **neon-themed UI**, providing real-time weather updates. The app fetches data via a weather API and displays key metrics such as temperature, humidity, wind speed, and visibility.  
 
 ## **Features**  
